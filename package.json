@@ -1,0 +1,22 @@
+{
+  "name": "async_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JUAN-BH/async_project.git"
+  },
+  "keywords": [
+    "async"
+  ],
+  "author": "JUAN-BH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JUAN-BH/async_project/issues"
+  },
+  "homepage": "https://github.com/JUAN-BH/async_project#readme"
+}
