@@ -63,7 +63,7 @@ async function fetchData(urlApi, optionsInfo) {
         <a href="${playlist.uri}">
             <div
               class="w-44 h-44 rounded-full flex justify-center items-center m-2 shadow-md  hover:shadow-lg hover:shadow-green-300  
-              bg-green-500 bg-[url('/src/assets/img/play.png')] bg-center bg-cover bg-[length:100px_100px] bg-no-repeat"
+              bg-green-500 bg-[url('assets/img/play.png')] bg-center bg-cover bg-[length:100px_100px] bg-no-repeat"
             >
             
             </div>
